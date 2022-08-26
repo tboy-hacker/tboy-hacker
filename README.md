@@ -8,7 +8,7 @@ A passion for finding bugs and making easy to use tools
 
 * 🌍  I'm based in Nigeria
 * 🧠  I'm learning new ways to enter a system
-* 🤝  I'm open to collaborating on rojects that can help people do there work faster
+* 🤝  I'm open to collaborating on projects that can help people do there work faster
 * ⚡  Loves doing work on time
 
 ### Skills
