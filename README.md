@@ -32,4 +32,3 @@ A passion for finding bugs and making easy to use tools
 
 <a href="http://www.github.com/tboy-hacker"><img src="https://github-readme-stats.vercel.app/api?username=tboy-hacker&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="tboy-hacker's GitHub stats" /></a>
 
-<a href="https://github.com/tboy-hacker" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tboy-hacker&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
