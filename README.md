@@ -1,16 +1,35 @@
-### Hi there 👋
+Hi 👋 My name is R3X
+====================
 
-<!--
-**tboy-hacker/tboy-hacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pentesting and Coding
+---------------------
 
-Here are some ideas to get you started:
+A passion for finding bugs and making easy to use tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Nigeria
+* 🧠  I'm learning new ways to enter a system
+* 🤝  I'm open to collaborating on rojects that can help people do there work faster
+* ⚡  Loves doing work on time
+
+### Skills
+
+<p align="left">
+<a href="https://coffeescript.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/coffeescript-colored-dark.svg" width="36" height="36" alt="Coffeescript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/tboy-hacker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/tboy-hacker"><img src="https://github-readme-stats.vercel.app/api?username=tboy-hacker&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="tboy-hacker's GitHub stats" /></a>
+
+<a href="https://github.com/tboy-hacker" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tboy-hacker&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
